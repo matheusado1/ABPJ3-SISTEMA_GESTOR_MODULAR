@@ -1,4 +1,3 @@
-
 receitas = []
 despesas = []
 
